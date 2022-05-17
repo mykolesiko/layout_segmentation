@@ -1,3 +1,4 @@
+Determine the figures and text on pages layout
 ```
 │   README.md
 │   requirements.txt
